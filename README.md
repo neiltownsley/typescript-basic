@@ -22,3 +22,6 @@ This basic bootstrap project was built using the following commands
 #### Add TSLint config of your choice
 
 `yarn add tslint-config-airbnb`
+
+#### Compile Typescript
+`npx tsc` or to watch `npx tsc -w`
