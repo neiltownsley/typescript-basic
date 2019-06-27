@@ -1,8 +1,8 @@
 import {Coordinates} from "./Coordinates";
+import {Direction} from "./Direction";
 import {ICommand} from "./ICommand";
 import {Plateau} from "./Plateau";
 import {StringCommandParser} from "./StringCommandParser";
-import {Direction} from "./test/Direction";
 
 export class MarsRover {
   private currentCoordinates: Coordinates;
